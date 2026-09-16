@@ -1,4 +1,4 @@
-# 🔬 RickLab / Rick-OS: Advanced Laboratory Automation & Biometric Security System
+# 🔬 RickLab / LAB-ASSISTANT 3000: Advanced Laboratory Automation & Biometric Security System
 
 > *"Empreinte vocale validée. Bienvenue dans le labo, chef."* — Rick-OS
 
